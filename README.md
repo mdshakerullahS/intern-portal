@@ -1,3 +1,9 @@
+# 🧪 Intern Portal – Full Stack Dummy Project
+
+This is a **dummy intern dashboard** built as part of **Round 1 of an internship assignment**.  
+It includes a mock login/signup page, dashboard with dummy referral code, total donations, and rewards section.  
+All data is statically served from the backend and no real authentication is implemented.
+
 ## 📦 How to Run Locally
 
 ### 1. Clone the Repository
